@@ -25,7 +25,7 @@ export default function RoutesFolder() {
                  <Route path="/pricing" element={<Pricing/>} />
                  <Route path="/team" element={<Team/>} />
                  <Route path="/woringtime" element={<WoringTime/>} />
-                 <Route path="/page_404" element={<Page_404/>} />
+                 {/* <Route path="/page_404" element={<Page_404/>} /> */}
                  <Route path="/testimonial" element={<Testimonial/>} />
                  
 
